@@ -1,3 +1,3 @@
 Git Basics
 
-This is my read me file
+This is my readme file.
